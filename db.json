@@ -1,0 +1,23 @@
+{
+    "fotos": [
+      {   
+          "id": "1",
+          "imagem": "https://i.postimg.cc/QNnHzq66/Quadra.jpg", 
+          "legenda": "Onde jogamos o InterCurso e ficamos em segundo lugar ", 
+          "data": "31.07.2025"
+      },
+      { 
+          "id": "2",
+          "imagem": "https://i.postimg.cc/7hchTxGv/Ping-Pong.jpg",
+          "legenda": "Onde passo um tempo com meus amigos no intervalo", 
+          "data": "31.07.2025"
+  },
+      { 
+          "id": "3",
+          "imagem": "https://i.postimg.cc/Gt992BpJ/Estacionamento.jpg", 
+          "legenda": "Onde ficamos pós disparar um alarme de incendio", 
+          "data": "31.07.2025"
+      }
+    ]
+  }
+  
